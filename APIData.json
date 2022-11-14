@@ -1,0 +1,299 @@
+{ "data":
+ [
+   {
+"album":[
+   {
+   "album_id": "6QYAJnxQVosXMMszGfVGvO",
+   "album_name": "Planet Pit (Deluxe Version)",
+   "album_release_date": "2011-06-17"
+ },
+ {
+   "album_id": "2Auw0pTT6EcQdvHNimhLQI",
+   "album_name": "V",
+   "album_release_date": "2014-09-02"
+ },
+ {
+   "album_id": "7fJJK56U9fHixgO0HQkhtI",
+   "album_name": "Future Nostalgia",
+   "album_release_date": "2020-03-27"
+ },
+ {
+   "album_id": "4X31KgSWm7phaB0kAKKzgs",
+   "album_name": "Carnival Of Rust",
+   "album_release_date": "2006-04-12"
+ },
+ {
+   "album_id": "2widuo17g5CEC66IbzveRu",
+   "album_name": "Hotel California (2013 Remaster)",
+   "album_release_date": "1976-12-08"
+ },
+ {
+   "album_id": "3jB9yFDwRe3KhtGnHXJntk",
+   "album_name": "PRISM",
+   "album_release_date": "2013-01-01"
+ },
+ {
+   "album_id": "4sLtOBOzn4s3GDUv3c5oJD",
+   "album_name": "A Star Is Born Soundtrack",
+   "album_release_date": "2018-10-05"
+ },
+ {
+   "album_id": "6K5S3fWJ6logqsusWVaJUG",
+   "album_name": "Shape of You (Galantis Remix)",
+   "album_release_date": "2017-02-10"
+ },
+ {
+   "album_id": "1nt0jwyt9HiBG3r0WQScql",
+   "album_name": "Dream Girl",
+   "album_release_date": "2019-09-06"
+ },
+ {
+   "album_id": "2zJbSTXQKOlCUHw4Cnh6iB",
+   "album_name": "Vicky Donor",
+   "album_release_date": "2012-04-04"
+ },
+ {
+   "album_id": "3alZBOvPaK3hgMEEymw4Yr",
+   "album_name": "Can't Slow Down",
+   "album_release_date": "1983-01-01"
+ },
+ {
+   "album_id": "156SSHnm8kNfMNl2QJub3I",
+   "album_name": "What Are Words",
+   "album_release_date": "2011-11-28"
+ },
+ {
+   "album_id": "3Zzv75PyROH6AMeXN1Yr1h",
+   "album_name": "Lift Me Up",
+   "album_release_date": "2022-10-28"
+ }
+],
+
+  "search": [
+ {
+   "artist_id": "0TnOYISbd1XYRBk9myaseg",
+   "track_id": "2cZrrQMjB63c0iIugYH9zS",
+   "album_id": "6QYAJnxQVosXMMszGfVGvO",
+   "preview_url": "https://p.scdn.co/mp3-preview/dba18f24b145b07f01a128e1dcb15a4282f96ba4?cid=6cafb6eca05540138feaf7c93f94685e\""
+
+ },
+ {
+   "artist_id": "04gDigrS5kc9YWfZHwBETP",
+   "track_id": "2iuZJX9X9P0GKaE93xcPjk",
+   "album_id": "2Auw0pTT6EcQdvHNimhLQI",
+   "preview_url": "https://p.scdn.co/mp3-preview/1a78821ccc410f134d9a74924bdd52c562768791?cid=6cafb6eca05540138feaf7c93f94685e"
+ },
+ {
+   "artist_id": "6M2wZ9GZgrQXHCFfjv46we",
+   "track_id": "39LLxExYz6ewLAcYrzQQyP",
+   "album_id": "7fJJK56U9fHixgO0HQkhtI",
+   "preview_url": "https://p.scdn.co/mp3-preview/130e18a8f12e319b06032640c6b75e3881719684?cid=6cafb6eca05540138feaf7c93f94685e"
+ },
+ {
+   "artist_id": "1AZ30JnvQU1pbX6sbRE0Yn",
+   "track_id": "2DtPEKs3Pj7E06EoWW4vw8",
+   "album_id": "4X31KgSWm7phaB0kAKKzgs",
+   "preview_url": "https://p.scdn.co/mp3-preview/aa956d71b21b7c4791c3e7c846136d5f36d7bd64?cid=6cafb6eca05540138feaf7c93f94685e"
+ },
+ {
+   "artist_id": "0ECwFtbIWEVNwjlrfc6xoL",
+   "track_id": "40riOy7x9W7GXjyGp4pjAv",
+   "album_id": "2widuo17g5CEC66IbzveRu",
+   "preview_url": "https://p.scdn.co/mp3-preview/412f7596ee68a616845f8b1269abaca5ad4e1b0d?cid=6cafb6eca05540138feaf7c93f94685e"
+ },
+ {
+   "artist_id": "6jJ0s89eD6GaHleKKya26X",
+   "track_id": "27tNWlhdAryQY04Gb2ZhUI",
+   "album_id": "3jB9yFDwRe3KhtGnHXJntk",
+   "preview_url": "https://p.scdn.co/mp3-preview/0b536cd4f5da6b8fece3cca2dbfc4dd34c31295e?cid=6cafb6eca05540138feaf7c93f94685e"
+ },
+ {
+   "artist_id": "1HY2Jd0NmPuamShAr6KMms",
+   "track_id": "3Iyq9p4jTQCmPXkzCoG0aI",
+   "album_id": "4sLtOBOzn4s3GDUv3c5oJD",
+   "preview_url": "https://p.scdn.co/mp3-preview/49742dbb99d82cb7533244e6fd5f7038de5c197d?cid=6cafb6eca05540138feaf7c93f94685e"
+ },
+ {
+   "artist_id": "6eUKZXaKkcviH0Ku9w2n3V",
+   "track_id": "0FE9t6xYkqWXU2ahLh6D8X",
+   "album_id": "6K5S3fWJ6logqsusWVaJUG",
+   "preview_url": "https://p.scdn.co/mp3-preview/09e92af512355474ccf074988ea208ce6eb90a2b?cid=6cafb6eca05540138feaf7c93f94685e"
+ },
+ {
+   "artist_id": "7qHsapL39aTQsPhixtzVvy",
+   "track_id": "28sq2vxwsWbDUMByREqpO7",
+   "album_id": "1nt0jwyt9HiBG3r0WQScql",
+   "preview_url": "https://p.scdn.co/mp3-preview/db77c17c62ed346aeb0547472faaef8cbc0ed135?cid=6cafb6eca05540138feaf7c93f94685e"
+ },
+ {
+   "artist_id": "7qHsapL39aTQsPhixtzVvy",
+   "track_id": "6eTPyEkYUmDUFvNxJdNuOD",
+   "album_id": "2zJbSTXQKOlCUHw4Cnh6iB",
+   "preview_url": "https://p.scdn.co/mp3-preview/0db76a7c398e9ee758f0c2a7ddb4cb944b52a8ea?cid=6cafb6eca05540138feaf7c93f94685e"
+
+ },
+ {
+   "artist_id": "3gMaNLQm7D9MornNILzdSl",
+   "track_id": "0mHyWYXmmCB9iQyK18m3FQ",
+   "album_id": "3alZBOvPaK3hgMEEymw4Yr",
+   "preview_url": "https://p.scdn.co/mp3-preview/d20383cfe28ca1d41cf1bc2d25debc984b396a8b?cid=6cafb6eca05540138feaf7c93f94685e"
+
+ },
+ {
+   "artist_id": "2uCmngYSlTEELzZXl1z1dV",
+   "track_id": "50A1WCxKycJUHRr4Rz6WrD",
+   "album_id": "156SSHnm8kNfMNl2QJub3I",
+   "preview_url": "https://p.scdn.co/mp3-preview/7e7a3b7a77e9d8625047270562ab279b9cc07eaa?cid=6cafb6eca05540138feaf7c93f94685e"
+ },
+ {
+   "artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+   "track_id": "35ovElsgyAtQwYPYnZJECg",
+   "album_id": "3Zzv75PyROH6AMeXN1Yr1h",
+   "preview_url": "https://p.scdn.co/mp3-preview/48f1228bdd9c975ac5a61c4b8bad889ba1ee8853?cid=6cafb6eca05540138feaf7c93f94685e"
+ }
+],
+  "artist": [
+ {
+   "artist_id": "0TnOYISbd1XYRBk9myaseg",
+   "artist_name": "Pitbull",
+   "followers": 9660686,
+   "popularity_rank": 81
+ },
+ {
+   "artist_id": "04gDigrS5kc9YWfZHwBETP",
+   "artist_name": "Maroon 5",
+   "followers": 38456780,
+   "popularity_rank": 84
+ },
+ {
+   "artist_id": "6M2wZ9GZgrQXHCFfjv46we",
+   "artist_name": "Dua Lipa",
+   "followers": 37031742,
+   "popularity_rank": 87
+ },
+ {
+   "artist_id": "1AZ30JnvQU1pbX6sbRE0Yn",
+   "artist_name": "Poets Of The Fall",
+   "followers": 239359,
+   "popularity_rank": 50
+ },
+ {
+   "artist_id": "0ECwFtbIWEVNwjlrfc6xoL",
+   "artist_name": "Eagles",
+   "followers": 8753624,
+   "popularity_rank": 74
+ },
+ {
+   "artist_id": "6jJ0s89eD6GaHleKKya26X",
+   "artist_name": "Katy Perry",
+   "followers": 23289513,
+   "popularity_rank": 83
+ },
+ {
+   "artist_id": "1HY2Jd0NmPuamShAr6KMms",
+   "artist_name": "Lady Gaga",
+   "followers": 23679494,
+   "popularity_rank": 84
+ },
+ {
+   "artist_id": "6eUKZXaKkcviH0Ku9w2n3V",
+   "artist_name": "Ed Sheeran",
+   "followers": 104581897,
+   "popularity_rank": 89
+ },
+ {
+   "artist_id": "7qHsapL39aTQsPhixtzVvy",
+   "artist_name": "Ayushmann Khurrana",
+   "followers": 3536249,
+   "popularity_rank": 62
+ },
+ {
+   "artist_id": "3gMaNLQm7D9MornNILzdSl",
+   "artist_name": "Lionel Richie",
+   "followers": 2852629,
+   "popularity_rank": 68
+ },
+ {
+   "artist_id": "2uCmngYSlTEELzZXl1z1dV",
+   "artist_name": "Chris Medina",
+   "followers": 83088,
+   "popularity_rank": 42
+ },
+ {
+   "artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+   "artist_name": "Rihanna",
+   "followers": 50817768,
+   "popularity_rank": 88
+ }
+],
+
+  "track":[
+ {
+   "track_id": "2cZrrQMjB63c0iIugYH9zS",
+   "track_name": "Rain Over Me (feat. Marc Anthony)",
+   "duration_ms": 231573
+ },
+ {
+   "track_id": "2iuZJX9X9P0GKaE93xcPjk",
+   "track_name": "Sugar",
+   "duration_ms": 235493
+ },
+ {
+   "track_id": "39LLxExYz6ewLAcYrzQQyP",
+   "track_name": "Levitating",
+   "duration_ms": 203807
+ },
+ {
+   "track_id": "2DtPEKs3Pj7E06EoWW4vw8",
+   "track_name": "Carnival Of Rust",
+   "duration_ms": 262946
+ },
+ {
+   "track_id": "40riOy7x9W7GXjyGp4pjAv",
+   "track_name": "Hotel California - 2013 Remaster",
+   "duration_ms": 391376
+ },
+ {
+   "track_id": "27tNWlhdAryQY04Gb2ZhUI",
+   "track_name": "Roar",
+   "duration_ms": 223546
+ },
+ {
+   "track_id": "3Iyq9p4jTQCmPXkzCoG0aI",
+   "track_name": "I'll Never Love Again",
+   "duration_ms": 166000
+ },
+ {
+   "track_id": "0FE9t6xYkqWXU2ahLh6D8X",
+   "track_name": "Shape Of You",
+   "duration_ms": 233712
+ },
+ {
+   "track_id": "28sq2vxwsWbDUMByREqpO7",
+   "track_name": "Ik Mulaqaat Unplugged",
+   "duration_ms": 213661
+ },
+ {
+   "track_id": "6eTPyEkYUmDUFvNxJdNuOD",
+   "track_name": "Pani Da Rang Male From Vicky Donor",
+   "duration_ms": 240786
+ },
+ {
+   "track_id": "0mHyWYXmmCB9iQyK18m3FQ",
+   "track_name": "Hello",
+   "duration_ms": 251106
+ },
+ {
+   "track_id": "50A1WCxKycJUHRr4Rz6WrD",
+   "track_name": "What are Words",
+   "duration_ms": 189093
+ },
+ {
+   "track_id": "35ovElsgyAtQwYPYnZJECg",
+   "track_name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+   "duration_ms": 196519
+ }
+]
+}
+ ]
+}
